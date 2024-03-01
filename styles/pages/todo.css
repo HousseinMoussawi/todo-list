@@ -1,0 +1,23 @@
+div{
+    height: 50px;
+    width: 100vw;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+div input{
+    width: 90vw;
+    border-radius: 10px;
+}
+
+div button{
+    border-radius: 10px;
+}
+
+table{
+    width: 100vw;
+    height:70px;
+    background-color: rgb(75, 156, 75);
+    border: 1px solid yellowgreen;
+    border-radius:10px
+}
